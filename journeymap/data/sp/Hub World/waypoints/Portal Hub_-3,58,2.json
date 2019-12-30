@@ -1,0 +1,18 @@
+{
+  "id": "Portal Hub_-3,58,2",
+  "name": "Portal Hub",
+  "icon": "waypoint-normal.png",
+  "x": -3,
+  "y": 58,
+  "z": 2,
+  "r": 0,
+  "g": 254,
+  "b": 86,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    17
+  ],
+  "persistent": true
+}

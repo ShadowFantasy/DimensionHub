@@ -1,0 +1,18 @@
+{
+  "id": "Ruins 1 (Explored)_-145,64,102",
+  "name": "Ruins 1 (Explored)",
+  "icon": "waypoint-normal.png",
+  "x": -145,
+  "y": 64,
+  "z": 102,
+  "r": 85,
+  "g": 114,
+  "b": 11,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    17
+  ],
+  "persistent": true
+}
